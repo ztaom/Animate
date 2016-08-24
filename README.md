@@ -51,9 +51,13 @@
 
 ## Table of Contents
 *A mostly reasonable approach to React and JSX*
-Basic Rules](#basic-rules)
+[Basic Rules](#basic-rules)
 
-Components](https://facebook.github.io/react/docs/reusable-components.html#stateless-functions)
+`React.createElement`
+
+
+
+[`react/jsx-boolean-value`](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-boolean-value.md)
 
 
 
