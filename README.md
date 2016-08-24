@@ -3,7 +3,25 @@
 # CSS动画
 1、transition
 
-2、keyframe和animation
+2、animation
+   @keyframes
+   @keyframes <identifier> { <keyframes_blocks> };
+   
+   animation-delay  1s 
+   
+   animation-direction  alternate  alternate-reverse  normal  reverse
+   
+   animation-duration  1s 持续时间
+   
+   animation-fill-mode  none  forwards  backwards  both
+   
+   animation-iteration-count  2  infinite
+   
+   animation-name  identifier
+   
+   animation-play-state  paused  running
+   
+   animation-timing-function  ease  linear  ease-in  ease-out  ease-in-out  cubic-bezier(0,0,1,1)  steps(3, end)  step-start  step-end
 
 
 # JS动画
