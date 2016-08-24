@@ -2,7 +2,10 @@
 
 # CSS动画
 1、transition
-
+   transition: transition-delay
+   transition: transition-duration
+   transition: transition-property
+   transition: transition-timing-function
 2、animation
    @keyframes
    @keyframes <identifier> { <keyframes_blocks> };
