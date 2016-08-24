@@ -51,13 +51,13 @@
 
 ## Table of Contents
 *A mostly reasonable approach to React and JSX*
-[Basic Rules](#basic-rules)
+[Basic Rules](#basic-rules) 锚点
 
-`React.createElement`
+`React.createElement` code
 
 
 
-[`react/jsx-boolean-value`](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-boolean-value.md)
+[`超链接`](http://youku.com/)
 
 
 
